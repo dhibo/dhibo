@@ -1,4 +1,4 @@
-## [Dhib Oussema]
+## Dhib Oussema
 
 **Software Engineer**
 

@@ -18,8 +18,8 @@ I'm a software engineer with a passion for building innovative and user-friendly
 
 **Projects**
 
-* [Project 1](https://github.com/your-username/project-1) - A web application that allows users to track their spending. 💰
-* [Project 2](https://github.com/your-username/project-2) - A mobile application that helps users learn a new language. 📚
+* [Web Desgin]([https://github.com/your-username/project-1](https://github.com/dhibo/Ingenious-Energy-Group-Inc-)) - A web  desgin project for ingenious energy group. 💰
+* [Project 2](https://github.com/dhibo/File-Management-) - File Management project with bash  📚
 * [Project 3](https://github.com/your-username/project-3) - A Python library for machine learning. 🤖
 * [Project 4](https://github.com/your-username/project-4) - A web framework for building modern web applications. 🕸️
 

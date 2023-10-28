@@ -1,37 +1,40 @@
-## Dhib Oussema
+## Oussema dhib 👩‍💻🧑‍💻
 
 **Software Engineer**
 
-[Link to your website] | [Link to your LinkedIn] | [Link to your Twitter]
+[oussema-dhib/](https://www.example.com) 💼 |  [oussema-dhib/](https://www.example.com)🐦
 
 **About**
 
-I am a software engineer with experience in building and maintaining web applications. I am passionate about using technology to solve real-world problems. I am also a strong advocate for open source software.
+I'm a software engineer with a passion for building innovative and user-friendly products. I'm also a big fan of open source software and love contributing to the community.
 
 **Skills**
 
-* Programming languages: Python, JavaScript, HTML, CSS
-* Web development frameworks: Django, React
-* Databases: MySQL, PostgreSQL
-* Cloud computing: AWS, Azure
-* DevOps tools: Git, GitHub, Docker, Kubernetes
+* Programming languages: Python, JavaScript, HTML, CSS 🐍💻🕸️
+* Web development frameworks: Django, React 🐦🐍
+* Databases: MySQL, PostgreSQL 🐘🐬
+* Cloud computing: AWS, Azure ☁️
+* DevOps tools: Git, GitHub, Docker 🐳☸️
 
 **Projects**
 
-* [Project 1](https://github.com/your-username/project-1) - A web application that allows users to track their spending.
-* [Project 2](https://github.com/your-username/project-2) - A mobile application that helps users learn a new language.
+* [Project 1](https://github.com/your-username/project-1) - A web application that allows users to track their spending. 💰
+* [Project 2](https://github.com/your-username/project-2) - A mobile application that helps users learn a new language. 📚
+* [Project 3](https://github.com/your-username/project-3) - A Python library for machine learning. 🤖
+* [Project 4](https://github.com/your-username/project-4) - A web framework for building modern web applications. 🕸️
 
 **Contributions**
 
-* I have contributed to several open source projects, including:
-    * [Project 3](https://github.com/project3/project3) - A popular Python library for machine learning.
-    * [Project 4](https://github.com/project4/project4) - A web framework for building modern web applications.
+I'm a regular contributor to several open source projects, including:
+
+* [Project 1](https://github.com/project1/project1) - A popular Python library for machine learning. 🤖
+* [Project 2](https://github.com/project2/project2) - A web framework for building modern web applications. 🕸️
 
 **Contact**
 
-If you have any questions or would like to collaborate, please feel free to contact me at [your-email@example.com].
+If you have any questions or would like to collaborate, please feel free to contact me at oussema.dhib@istic.ucar.tn . 📧
 
 **Badges**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme/fork)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme) 🌟
+[![GitHub forks](https://img.shields.io/github/forks/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme/fork) fork

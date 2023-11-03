@@ -36,5 +36,5 @@ If you have any questions or would like to collaborate, please feel free to cont
 
 **Badges**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme) 🌟
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-profile-readme.svg?style=social)](https://github.com/dhib/dhibo-readme) 🌟
 [![GitHub forks](https://img.shields.io/github/forks/your-username/your-profile-readme.svg?style=social)](https://github.com/your-username/your-profile-readme/fork) fork
